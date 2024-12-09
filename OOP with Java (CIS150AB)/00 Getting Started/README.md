@@ -1,3 +1,3 @@
 # Getting Started
 
-Files referenced in the Getting Started chapter and associated videos.
+Files referenced in the _Getting Started_ chapter and associated videos.
