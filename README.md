@@ -5,5 +5,5 @@ GitHub Page: https://timmcmichael.github.io/
 
 YouTube Channel: [@ProfTimEMCC](https://www.youtube.com/@ProfTimEMCC)
 
-This files are also archived on a Google Drive shared folder for the benefit of beginners unfamiliar with GitHub:
+These files are also archived on a Google Drive shared folder for the benefit of beginners unfamiliar with GitHub:
 * Google Drive: [https://bit.ly/ProfTimEMCCFiles](https://bit.ly/ProfTimEMCCFiles)
