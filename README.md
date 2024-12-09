@@ -1,4 +1,9 @@
 # EMCCTimFiles
-Demo code, starter files, and solution examples for EMCC Tim's coding courses &amp; videos.
+This is a collection of source code files (demos, starter files, sample solutions) related to my courses, videos, and written content. 
 
-Coming soon...
+GitHub Page: https://timmcmichael.github.io/
+
+YouTube Channel: [@ProfTimEMCC](https://www.youtube.com/@ProfTimEMCC)
+
+This files are also archived on a Google Drive shared folder for the benefit of beginners unfamiliar with GitHub:
+* Google Drive: [https://bit.ly/ProfTimEMCCFiles](https://bit.ly/ProfTimEMCCFiles)
