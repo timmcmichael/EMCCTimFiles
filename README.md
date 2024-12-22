@@ -11,7 +11,7 @@ You do NOT need a GitHub account to download/copy code:
 
 2. Click on the file to display the source code:
 
-![Screenshot showing a source code file displayed in GitHub](https://github.com/timmcmichael/EMCCTimFiles/tree/fb5a618eef4b36f52517dbc3565c400328100456/images/source_buttons.png)
+![Screenshot showing a source code file displayed in GitHub](https://github.com/timmcmichael/EMCCTimFiles/blob/main/images/source_buttons.png?raw=true)
 
 3. Click the **download** button (circled in yellow in the screenshot)
 
