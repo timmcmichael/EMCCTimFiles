@@ -4,9 +4,11 @@
 
 public class WeatherRecordDemo {
     public static void main(String[] args) {
+        // Instantiate two objects
         WeatherRecord day1 = new WeatherRecord();
         WeatherRecord day2 = new WeatherRecord();
 
+        // Set field values for both instances
         day1.setDate("2024-10-01");
         day1.setHighTemperature(87);
         day1.setAverageWindSpeed(1.5);
@@ -14,6 +16,8 @@ public class WeatherRecordDemo {
         day2.setDate("2024-10-02");
         day2.setHighTemperature(75);
         day2.setAverageWindSpeed(8.25);
+
+        // Output field values for both instances
 
         System.out.println("Date: " + day1.getDate());
         System.out.println("High Temperature: " + day1.getHighTemperature());
