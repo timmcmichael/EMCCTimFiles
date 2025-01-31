@@ -4,6 +4,25 @@
  * 
  */
 public class WeatherRecord {
+    // Constructors
+    public WeatherRecord() { // "parameterless" constructor
+        date = "2025-01-01";
+        highTemperature = 0;
+        averageWindSpeed = 0.0;
+    }
+
+    public WeatherRecord(String date) {
+        this.date = date;
+        this.highTemperature = 0;
+        this.averageWindSpeed = 0.0;
+    }
+
+    public WeatherRecord(String date, int highTemperature, double averageWindSpeed) {
+        this.date = date;
+        this.highTemperature = highTemperature;
+        this.averageWindSpeed = averageWindSpeed;
+    }
+
     // Fields
     private String date;
     private int highTemperature;
