@@ -1,8 +1,10 @@
 /*
- * CellCustomer
+ * MobileCustomer
  * This class represents a customer of a cell phone service company, focusing on the customer's data plan and usage.
+ * 
+ * NOTE: This is a copy of the CellCustomer class, renamed for the video on constructors.
+ * 
  */
-package module04;
 
 public class MobileCustomer {
 
@@ -14,7 +16,7 @@ public class MobileCustomer {
 
     // Constructors
     public MobileCustomer(String name, String phoneNumber, double monthlyData) {
-        this.name = name;       // name = name doesn't work right!
+        this.name = name; // name = name doesn't work right!
         this.phoneNumber = phoneNumber;
         this.monthlyData = monthlyData;
         this.remainingData = monthlyData;
@@ -70,5 +72,5 @@ public class MobileCustomer {
     public void resetData() {
         this.remainingData = this.monthlyData;
     }
-    
+
 }

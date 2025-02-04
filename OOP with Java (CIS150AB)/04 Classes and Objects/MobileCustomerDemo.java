@@ -1,11 +1,13 @@
 /*
- * CellCustomerDemo
- * Tests and demonstrates functionality of the CellCustomer class by instantiating objects and using instance methods.
+ * MobileCustomerDemo
+ * Tests and demonstrates functionality of the MobileCustomer class by instantiating objects and using instance methods.
+ * 
+ * NOTE: This is a copy of the CellCustomerDemo class, renamed for the video on constructors.
+ *
  */
-package module04;
 
 public class MobileCustomerDemo {
-   
+
     public static void main(String[] args) {
         MobileCustomer customer1;
         customer1 = new MobileCustomer("Deadpool", "800-867-5309", 16.0);
@@ -35,6 +37,5 @@ public class MobileCustomerDemo {
         System.out.println(customer2.getMonthlyData());
 
     }
-
 
 }
