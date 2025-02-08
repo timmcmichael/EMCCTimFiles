@@ -1,5 +1,8 @@
 /*
  * This driver class tests/demonstrates the WeatherRecordDemo class.
+ * 
+ * NOTE: This program appears in multiple sections of the eBook and/or accompanying videos. This version demonstrates concepts from the "Classes and Objects" chapter.
+ * 
  */
 
 public class WeatherRecordDemo {
@@ -8,8 +11,6 @@ public class WeatherRecordDemo {
         WeatherRecord day1 = new WeatherRecord();
         WeatherRecord day2 = new WeatherRecord("1998-01-25");
         WeatherRecord day3 = new WeatherRecord("2024-10-03", 65, 5.0);
-
-
 
         // Set field values for both instances
         day1.setDate("2024-10-01");

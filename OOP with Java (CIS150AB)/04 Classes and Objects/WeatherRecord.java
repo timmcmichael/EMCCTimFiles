@@ -2,6 +2,8 @@
  * This class represents a weather record for a specific date, logging the 
  * high temperature and average wind speed.
  * 
+ * NOTE: This class appears in multiple sections of the eBook and/or accompanying videos. This version demonstrates concepts from the "Classes and Objects" chapter.
+ *
  */
 public class WeatherRecord {
     // Constructors
@@ -27,7 +29,7 @@ public class WeatherRecord {
     private String date;
     private int highTemperature;
     private double averageWindSpeed;
-    
+
     // Getters
     public String getDate() {
         return date;
