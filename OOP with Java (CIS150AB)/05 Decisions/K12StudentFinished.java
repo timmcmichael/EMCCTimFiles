@@ -3,10 +3,11 @@
  * 
  * It demonstrates the use of if-else statements in an object-oriented context, including encapsulation and data validation.
  * 
+ * NOTE: This is the completed code at the end of the video (and doesn't compile due to the filename change). See K12Student.java for the starter file.
  */
 package module05;
 
-public class K12Student {
+public class K12Student {     // This is the finished file, not the starter!
     private String name;
     private int age;
     private int gradeLevel;
