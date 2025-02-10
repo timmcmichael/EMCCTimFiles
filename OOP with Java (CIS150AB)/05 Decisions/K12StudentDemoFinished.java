@@ -1,9 +1,11 @@
 /*
  * This program demonstrates the K12Student class.
+ *
+ * NOTE: This is the completed code at the end of the video (and doesn't compile due to the filename change). See K12Student.java for the starter file.
  */
 package module05;
 
-public class K12StudentDemo {
+public class K12StudentDemo {     // This is the finished file, not the starter!
 
         public static void main(String[] args) {
                 // K12Student student1 = new K12Student();
