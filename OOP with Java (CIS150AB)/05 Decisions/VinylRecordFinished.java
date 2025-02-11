@@ -74,9 +74,9 @@ public class VinylRecord { // This is NOT the starter file!
             }
         } else if (this.genre.equals("Blues")) {
             if (this.subgenre.equals("Chicago Blues")) {
-                this.price = 35.0;
+                this.price = 30.0;
             } else if (this.subgenre.equals("Delta Blues")) {
-                this.price = 25.0;
+                this.price = 35.0;
             } else {
                 this.price = 25.0;
             }
