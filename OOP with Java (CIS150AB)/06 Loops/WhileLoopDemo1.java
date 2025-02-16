@@ -6,7 +6,7 @@ public class WhileLoopDemo1 {
         final String ANSWER = "EMCC";
         Scanner in = new Scanner(System.in);
 
-        // initial control variable
+        // initialize control variable
         String response = "";
 
         System.out.print("What is the best community college in Arizona? ");
