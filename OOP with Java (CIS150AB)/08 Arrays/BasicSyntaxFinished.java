@@ -4,10 +4,12 @@
  * Initialization lists
  * 
  * Team example from video (John, Marie, Danielle, Daveed, Javier, Vanessa)
+ *
+ * NOTE: This is the completed code at the end of the video (and doesn't compile due to the filename change). See BasicSyntax.java for the starter file.
  * 
  */
 
-public class BasicSyntax1 {
+public class BasicSyntax {
 
     public static void main(String[] args) {
 
