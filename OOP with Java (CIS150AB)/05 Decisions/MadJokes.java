@@ -7,6 +7,8 @@
  * 9 -> 270.0
  * 10 -> 270.0
  * 11 -> 297.0
+ *
+ * NOTE: This is the completed code at the end of the video.
  * 
  */
 
