@@ -4,8 +4,8 @@
  * Initialization lists
  * 
  * Team example from video (John, Marie, Danielle, Daveed, Javier, Vanessa)
- *
- * NOTE: This is the completed code at the end of the video (and doesn't compile due to the filename change). See BasicSyntax.java for the starter file.
+ * 
+ * NOTE: This is the code that was completed by the end of the video and is not the starter file. Because it's been renamed, it doesn't compile. See BasicSyntax.java for the starter file.
  * 
  */
 

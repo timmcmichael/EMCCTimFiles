@@ -1,3 +1,9 @@
+/* 
+ * This program demonstrates how to create an array of objects using Dog.java.
+ * 
+ * NOTE: This is the code that was completed by the end of the video. There is no starter code other than Dog.java.
+ * 
+ */
 public class ArrayOfObjects {
 
     public static void main(String[] args) {
