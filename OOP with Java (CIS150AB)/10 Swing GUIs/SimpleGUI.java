@@ -1,3 +1,8 @@
+
+/*
+ * This demonstrates simple Swing GUI with a couple of JLabels.
+ * 
+ */
 import javax.swing.*;
 
 public class SimpleGUI {
