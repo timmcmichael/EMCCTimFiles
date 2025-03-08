@@ -1,3 +1,9 @@
+/*
+ * This demonstrates the use of nested layouts to organize a more complex GUI.
+ * 
+ * To see this example with colors applied to make the different elements more visible, see NestedLayoutDemoColors.java
+ */
+
 import javax.swing.*;
 import java.awt.*;
 

@@ -1,3 +1,8 @@
+
+/*
+ * This demonstrates a GridLayout in Swing with 3 rows and 2 columns.
+ * 
+ */
 import javax.swing.*;
 import java.awt.*;
 

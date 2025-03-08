@@ -1,3 +1,7 @@
+
+/*
+ * This demonstrates using the BorderLayout layout manager.
+ */
 import javax.swing.*;
 import java.awt.*;
 

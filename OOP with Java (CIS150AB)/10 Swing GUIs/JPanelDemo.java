@@ -1,3 +1,8 @@
+
+/*
+ * This program demonstrates the use of JPanels to organize widgets in a JFrame.
+ * 
+ */
 import javax.swing.*;
 import java.awt.*;
 

@@ -1,3 +1,8 @@
+
+/*
+ * This is a demonstration of the JComboBox widget in Swing.
+ * 
+ */
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;

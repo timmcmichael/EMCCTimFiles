@@ -1,3 +1,8 @@
+
+/* 
+ * This demonstrates the FlowLayout manager in Swing.
+ * 
+ */
 import javax.swing.*;
 import java.awt.*;
 
