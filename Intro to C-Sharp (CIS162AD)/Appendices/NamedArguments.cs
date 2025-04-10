@@ -1,7 +1,7 @@
 /*
  * This example shows a method call using named arguments.
  */
-public class Program
+public class NamedArguments
 {
     public static void Main()
     {
