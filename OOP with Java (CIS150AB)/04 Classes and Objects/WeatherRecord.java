@@ -6,11 +6,17 @@
  *
  */
 public class WeatherRecord {
+   
+    // Fields
+    private String date;
+    private int highTemperature;
+    private double averageWindSpeed;
+
     // Constructors
     public WeatherRecord() { // "parameterless" constructor
-        date = "2025-01-01";
-        highTemperature = 0;
-        averageWindSpeed = 0.0;
+        this.date = "2025-01-01";
+        this.highTemperature = 0;
+        this.averageWindSpeed = 0.0;
     }
 
     public WeatherRecord(String date) {
@@ -25,22 +31,17 @@ public class WeatherRecord {
         this.averageWindSpeed = averageWindSpeed;
     }
 
-    // Fields
-    private String date;
-    private int highTemperature;
-    private double averageWindSpeed;
-
     // Getters
     public String getDate() {
-        return date;
+        return this.date;
     }
 
     public int getHighTemperature() {
-        return highTemperature;
+        return this.highTemperature;
     }
 
     public double getAverageWindSpeed() {
-        return averageWindSpeed;
+        return this.averageWindSpeed;
     }
 
     // Setters and Mutators
