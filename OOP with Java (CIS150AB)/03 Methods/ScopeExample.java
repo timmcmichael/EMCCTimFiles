@@ -4,13 +4,13 @@
 public class ScopeExample {
 
     public static void main(String[] args) {
-        int favoriteNumber = 7;
-        System.out.println(favoriteNumber); // no problem!
+        int numberOfSongs = 7;
+        System.out.println(numberOfSongs); // no problem!
 
         outputNumber();
     }
 
     public static void outputNumber() {
-        System.out.println(favoriteNumber); // favoriteNumber doesn't exist here!
+        System.out.println(numberOfSongs); // favoriteNumber doesn't exist here!
     }
 }
