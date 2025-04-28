@@ -5,7 +5,7 @@
  * 
  */import java.util.Random;
 
-public class MethodDebuggingFinal {
+public class MethodDebuggingFinished {
 
     public static void main(String[] args) {
         int betweenSum = -1, randSum = -1; // BREAKPOINT 1
