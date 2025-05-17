@@ -13,19 +13,14 @@ public class WhileLoopDemo3 {
         int multiplier = 0;
 
         // initiallize control variable
-        int counter = 20;
-
+        
         System.out.print("Enter a number to create a multiplication table: ");
         multiplier = in.nextInt();
 
         // evaluate boolean expression
-        while (counter <= 100) {
-            int answer = counter * multiplier;
-            System.out.println(counter + " x " + multiplier + " = " + answer);
-            // update control variable
-            counter++;
-        }
+        // update control variable
 
+        
     }
 
 }
