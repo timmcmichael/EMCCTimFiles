@@ -7,7 +7,7 @@ As a beginner, you may not be familiar with GitHub, so here's how to get the fil
 
 You do NOT need a GitHub account to download/copy code:
 
-1. In the above file list, navigate to the relevant folder. 
+1. In the above file list, navigate to the relevant folder. The files are organized by the book or course first, with subfolders for each chapter or topic. 
 
 2. Click on the file to display the source code:
 
