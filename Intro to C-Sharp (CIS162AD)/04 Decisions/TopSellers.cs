@@ -11,7 +11,7 @@
  * 3 (pop rock) -> "The Joshua Tree by U2"
  * 4 (hip hop) -> "Straight Outta Compton by N.W.A."
  * 5 (soul) -> "The Dock of the Bay by Otis Redding"
- * -94 -> "[Invalid selection]"
+ * 94 -> "[Invalid selection]"
  *
  */
 
@@ -33,46 +33,12 @@ public class TopSellers
         Console.Write("Your selection: ");
         input = Console.ReadLine();
         
-        // Delete below here:
-        selection = Convert.ToInt32(input);
-        
-        album = TopSeller(selection);
-        Console.WriteLine($"The top seller in that category is {album}");
-        
-        // Then, don't convert to int--keeping it as a string avoids a crash
     }
 
     public static string TopSeller(int genre)
     {
         string title = "";
 
-        // Start delete
-        if (genre == 1)
-        {
-            title = "Paranoid by Black Sabbath";
-        }
-        else if (genre == 2)
-        {
-            title = "Document by R.E.M.";
-        }
-        else if (genre == 3)
-        {
-            title = "The Joshua Tree by U2";
-        }
-        else if (genre == 4)
-        {
-            title = "Straight Outta Compton by N.W.A.";
-        }
-        else if (genre == 5)
-        {
-            title = "The Dock of the Bay by Otis Redding";
-        }
-        else
-        {
-            title = "[invalid selection]";
-        }
-
-        // End delete
 
         return title;
     }
