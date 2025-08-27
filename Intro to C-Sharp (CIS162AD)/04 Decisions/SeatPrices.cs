@@ -2,7 +2,9 @@
  * SeatPrices
  * 
  * This program determines the price of a ticket for the Rolling Stones'
- * "Steel Wheelchairs" tour based on section and row.
+ * "Steel Wheelchairs" tour based on section and row. The lower bowl costs 
+ * $100 for the first 5 rows and $75 for rows behind that. The upper bowl
+ * is $65 for the first 5 rows and $50 further back.
  *
  * It is intended to demonstrate the use of "nested" if statements to make
  * hierarchical decisions.
