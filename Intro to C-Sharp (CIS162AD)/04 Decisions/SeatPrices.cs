@@ -28,4 +28,4 @@ rowNumber = Convert.ToInt32(Console.ReadLine());
 
 
 
-Console.WriteLine($"Ticket price is ${seatPrice}");
+Console.WriteLine($"Ticket price is ${seatPrice}. Enjoy the show!");
