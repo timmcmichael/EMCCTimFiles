@@ -1,4 +1,6 @@
-// NOTE: Add a package statement if necessary!
+// NOTE: Add a package statement here if necessary
+
+// DO NOT EDIT ANYTHING BELOW THIS POINT
 
 /*
  * MerchandiseItem
