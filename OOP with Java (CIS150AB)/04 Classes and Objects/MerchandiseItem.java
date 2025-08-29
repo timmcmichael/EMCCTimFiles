@@ -6,9 +6,6 @@
  * MerchandiseItem
  * 
  * This class represents a single merchandise item to be sold by the band. 
- * The default constructor creates a t-shirt, the most common item sold. The
- * other constructor allows for the creation of any merchandise item with
- * specified name, price, and weight.
  * 
  * The getShippingPrice method calculates the shipping cost based on the
  * quantity ordered and the total weight of the items. 4 or more items get 
@@ -25,12 +22,6 @@ public class MerchandiseItem {
     private int weight; // in grams
 
     // Constructors
-
-    public MerchandiseItem(String name, double price, int weight) {
-        this.name = name;
-        this.price = price;
-        this.weight = weight;
-    }
 
     public MerchandiseItem() {
         this.name = "T-Shirt";
