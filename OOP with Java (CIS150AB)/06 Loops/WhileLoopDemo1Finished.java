@@ -12,7 +12,7 @@ public class WhileLoopDemo1 {
         System.out.print("What is the best community college in Arizona? ");
         response = in.nextLine();
 
-        // evaluated a boolean expression
+        // evaluate a boolean expression
         while (!response.equals(ANSWER)) {
             System.out.print("Wrong, try again. What is the best community college in Arizona? ");
 
