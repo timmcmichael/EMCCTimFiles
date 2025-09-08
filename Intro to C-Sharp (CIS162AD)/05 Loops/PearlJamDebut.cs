@@ -15,3 +15,5 @@ if (guess.ToUpper() != FirstAlbum.ToUpper())
 {
     Console.WriteLine("Wrong!");
 }
+
+Console.WriteLine("Thanks for playing!");
