@@ -1,6 +1,8 @@
 /*
  * Quizzes the user on the name of the first Pearl Jam album.
- * 
+ *
+ * This demonstrates a simple while loop based on user input.
+ *
  */
 
 const string FirstAlbum = "Ten";
