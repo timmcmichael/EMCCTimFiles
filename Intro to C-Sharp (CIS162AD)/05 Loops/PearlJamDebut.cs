@@ -9,7 +9,7 @@ string guess = "";
 Console.Write("What is the title of Pearl Jam's debut album? ");
 guess = Console.ReadLine();
 
-if (guess != FirstAlbum)
+if (guess.ToUpper() != FirstAlbum.ToUpper())
 {
     Console.WriteLine("Wrong!");
 }
