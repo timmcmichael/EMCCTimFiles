@@ -46,7 +46,7 @@ public class MethodDebuggingFinished {
         int count = start;
 
         do {
-            System.out.println();
+            System.out.println("Counter = " + count++);
         } while (count <= end);
 
     }
