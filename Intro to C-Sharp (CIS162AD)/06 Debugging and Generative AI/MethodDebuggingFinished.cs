@@ -1,9 +1,11 @@
 /*
  * This code includes some errors in order to demonstrate debugging techniques.
  * 
- * NOTE: This is the code at the END of the video. See MethodDebugging.java for the code at the start of the video.
+ * NOTE: This is the code at the END of the video. See MethodDebugging.cs for the code at the start of the video.
  * 
- */
+ * This code is translated from the Java version shown in the video
+ *
+*/
 
 int betweenSum = -1, randSum = -1; // BREAKPOINT 1
 String mySchool = "EMCC";
@@ -53,3 +55,4 @@ static void PrintBetween(int start, int end)
     } while (count <= end);
 
 }
+
