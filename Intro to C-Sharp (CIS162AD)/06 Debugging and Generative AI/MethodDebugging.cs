@@ -1,8 +1,10 @@
 /*
  * This code includes some errors in order to demonstrate debugging techniques.
  * 
- * NOTE: This is the code at the START of the video. See MethodDebuggingFinal.java for the code after completing the video.
+ * NOTE: This is the code at the START of the video. See MethodDebuggingFinal.cs for the code after completing the video.
  * 
+ * This code is translated from the Java version shown in the video
+ *
  */
 
 int betweenSum = -1, randSum = -1;
@@ -59,4 +61,5 @@ static void PrintBetween(int start, int end)
     } while (count <= end);
 
 }
+
 
