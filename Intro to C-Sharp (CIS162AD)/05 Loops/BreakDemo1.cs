@@ -3,9 +3,11 @@
  */
 
 
-for (int counter = 1; counter <= 10; counter++) {
+for (int counter = 1; counter <= 10; counter++) 
+{
     Console.Write("Next: ");
-    if (counter == 5) {
+    if (counter == 5) 
+    {
         break;
     }
     Console.Write(counter);
