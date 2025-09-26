@@ -11,28 +11,28 @@ class PoolRecordDemo
 {
     static void Main(string[] args)
     {
-        // Instantiate two objects
-        PoolRecord pool1 = new PoolRecord();
-        PoolRecord pool2 = new PoolRecord();
+         // Instantiate two objects
+        PoolRecord day1 = new PoolRecord();
+        PoolRecord day2 = new PoolRecord();
 
         // Set field values for both instances
-        pool1.SetDate("2024-10-01");
-        pool1.SetWaterTemp(87);
-        pool1.SetPhLevel(1.5);
+        day1.SetDate("2024-10-01");
+        day1.SetWaterTemp(87);
+        day1.SetPhLevel(1.5);
 
-        pool2.SetDate("2024-10-02");
-        pool2.SetWaterTemp(75);
-        pool2.SetPhLevel(8.25);
+        day2.SetDate("2024-10-02");
+        day2.SetWaterTemp(75);
+        day2.SetPhLevel(8.25);
 
         // Output field values for both instances
-        Console.WriteLine("Date: " + pool1.GetDate());
-        Console.WriteLine("Water Temperature: " + pool1.GetWaterTemp());
-        Console.WriteLine("pH Level: " + pool1.GetPhLevel());
+        Console.WriteLine("Date: " + day1.GetDate());
+        Console.WriteLine("Water Temperature: " + day1.GetWaterTemp());
+        Console.WriteLine("pH Level: " + day1.GetPhLevel());
 
         Console.WriteLine("------------------------------");
 
-        Console.WriteLine("Date: " + pool2.GetDate());
-        Console.WriteLine("Water Temperature: " + pool2.GetWaterTemp());
-        Console.WriteLine("pH Level: " + pool2.GetPhLevel());
+        Console.WriteLine("Date: " + day2.GetDate());
+        Console.WriteLine("Water Temperature: " + day2.GetWaterTemp());
+        Console.WriteLine("pH Level: " + day2.GetPhLevel());
     }
 }
