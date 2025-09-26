@@ -35,4 +35,19 @@ public class PoolRecord
             }
         }
     }
+
+    // Constructors
+    public PoolRecord()
+    {
+        this.Date = "2025-01-01";
+        this.WaterTemp = 0;
+        this.PhLevel = 0.0;
+    }
+    
+    public PoolRecord(string date)
+    {
+        this.Date = date;
+        this.WaterTemp = 0;
+        this.PhLevel = 0.0;
+    }
 }
