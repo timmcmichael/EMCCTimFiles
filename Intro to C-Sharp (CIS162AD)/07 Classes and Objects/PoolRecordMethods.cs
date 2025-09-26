@@ -42,6 +42,9 @@ public class PoolRecord
 
     public void SetPhLevel(double phLevel)
     {
-        this.phLevel = phLevel;
+        if (phLevel >= 0.0 && phLevel <= 14.0)
+        {
+            this.phLevel = phLevel;
+        }
     }
 }
