@@ -3,7 +3,7 @@
  *
  * Models a record off pool water records for a single day, using traditional getter and setter methods.
  *
- * This program works with the version of the PoolRecordDemo program found in PoolRecordDemoMethods.cs.
+ * This class works with the version of the PoolRecordDemo program found in PoolRecordDemoMethods.cs.
  *
  */
 public class PoolRecord
