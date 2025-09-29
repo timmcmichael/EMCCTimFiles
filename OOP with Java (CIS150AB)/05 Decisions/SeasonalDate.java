@@ -1,5 +1,3 @@
-package module05;
-
 /*
  * Solution Walkthrough
  * Module 05
