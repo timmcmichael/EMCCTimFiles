@@ -1,5 +1,5 @@
 ﻿/*
- * MobileCustomer
+ * MobileCustomerProperties
  * 
  * This class represents a customer of a cell phone service company, focusing on the 
  * customer's data plan and usage.
@@ -142,4 +142,5 @@ namespace OOPDemo
 
     }
 }
+
 
