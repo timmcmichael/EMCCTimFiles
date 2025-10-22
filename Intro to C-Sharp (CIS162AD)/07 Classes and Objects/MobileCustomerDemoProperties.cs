@@ -1,10 +1,10 @@
 ﻿/*
- * MobileCustomerDemo
+ * MobileCustomerDemoProperties
  * 
  * Tests and demonstrates functionality of the CellCustomer class by instantiating objects
  * and using their instance methods.
  * 
- * NOTE: This is a copy of the CellCustomerDemo class, renamed for the video on constructors.
+ * NOTE: This is a copy of the CellCustomerDemo class, renamed for the video on properties.
  * 
  */
 
@@ -50,3 +50,4 @@ Console.WriteLine(customer2.MonthlyData);
 
 customer1.EmailAddress = "test@deadpool.com";
 Console.WriteLine(customer1.EmailAddress);
+
