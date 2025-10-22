@@ -4,7 +4,7 @@
  * This class represents a customer of a cell phone service company, focusing on the 
  * customer's data plan and usage.
  * 
- *  * NOTE: This is a copy of the CellCustomer class, renamed for the video on constructors.
+ * NOTE: This is a copy of the CellCustomer class, renamed for the video on properties.
  * 
  */
 
@@ -142,3 +142,4 @@ namespace OOPDemo
 
     }
 }
+
