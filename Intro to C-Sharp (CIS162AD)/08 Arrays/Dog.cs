@@ -4,7 +4,7 @@
  * 
  */
 
-namespace ObjectArrays; // Change to match your project
+namespace ArrayOfObjects; // Change to match your project
 
 public class Dog
 {
