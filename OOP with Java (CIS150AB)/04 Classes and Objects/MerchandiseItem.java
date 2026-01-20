@@ -21,7 +21,7 @@ public class MerchandiseItem {
     private double price;
     private int weight; // in grams
 
-    // Constructors
+    // Constructor - We haven't quite learned about this yet!
 
     public MerchandiseItem() {
         this.name = "T-Shirt";
